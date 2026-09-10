@@ -1,8 +1,8 @@
 # Harcapital
 
-Marketing landing page for **Harcapital** (venture & private equity).
+Static landing page for **Harcapital**, a selective venture and private equity firm.
 
-This is a static single-page site — plain HTML, CSS, and light JavaScript. No build step.
+Plain HTML, CSS, and light JavaScript. No build step. GitHub Pages ready from the repository root.
 
 ## Local preview
 
@@ -20,7 +20,7 @@ Then visit `http://localhost:8080`.
 
 ## GitHub Pages
 
-This repo is ready to deploy from the **repository root** on the `main` branch.
+Deploy from the **repository root** on the `main` branch.
 
 1. Push these files to `https://github.com/HarHar619/Harpital-Partners` on `main`.
 2. In the repo: **Settings → Pages**.
@@ -32,10 +32,10 @@ This repo is ready to deploy from the **repository root** on the `main` branch.
 
 A `.nojekyll` file is included so GitHub Pages serves files as-is.
 
-## Brand note
+## Brand
 
-The site brand name is **Harcapital**. The GitHub repository may be named `Harpital-Partners`.
+Site brand name: **Harcapital**. The GitHub repository may be named `Harpital-Partners`.
 
 ## Contact
 
-Placeholder contact: [hello@harcapital.com](mailto:hello@harcapital.com)
+[hello@harcapital.com](mailto:hello@harcapital.com)
